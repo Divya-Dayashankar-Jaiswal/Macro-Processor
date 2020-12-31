@@ -1,8 +1,8 @@
 # Macro-Processor
 ## Created By: Divya Dayashankar Jaiswal
-## LANGUAGE USED : C
-## ALGORITHM DEVELOPED : TWO-PASS (ALGORITHM - 1); MDI (ALGORITHM - 2); STACK (ALGORITHM - 3)
-## PERCENTAGE OF SOFTWARE DEVELOPED : 100%
+#### LANGUAGE USED : C
+#### ALGORITHM DEVELOPED : TWO-PASS (ALGORITHM - 1); MDI (ALGORITHM - 2); STACK (ALGORITHM - 3)
+#### PERCENTAGE OF SOFTWARE DEVELOPED : 100%
 
 ### algo1: It consists of pass-1 and pass-2 algorithm (pass-1 processing macro defination; pass-2 processsing macro calls and expansion)
 Each of these pass-1 and pass-2 algorithm makes a line-by-line scan over its input.
